@@ -1,13 +1,16 @@
-﻿<%@ Page Language="C#" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TimeAccess.aspx.cs" Inherits="_110_1Practice1_1.TimeAccess" %>
 
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta charset="utf-8" />
-    <title></title>    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">   
+    <form id="form1" runat="server">
+        <div>
+        </div>
     </form>
 </body>
 </html>
